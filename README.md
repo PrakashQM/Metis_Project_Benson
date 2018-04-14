@@ -13,3 +13,6 @@ Based on the data published by New York City's Metropolitan Transportation Autho
  - Times Square - 42nd St
 
 The first strategy takes advantage of sheer numbers. These stations are centrally located transit hubs and among the highest-trafficked stations in New York City. Street teams will encounter a wide range of both New Yorkers and visitors, contributing to WTWY's goal of increasing awareness and possibly yielding connections with local residents.
+
+
+![Tablow_image](./figures/tableau_screenshot.png)
