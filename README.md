@@ -45,3 +45,6 @@ We would like to further the work already done by deepening our analysis in a fe
 
 
 ![Tablow_image](./1.figure/tableau_screenshot.png)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PrakashQM/Metis_Project_Benson/master?filepath=Metis_Project_Benson%2F2.analysis%2FMTA_sub_way_data_analysis_with_pandas_for_random_week.ipynb)
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/PrakashQM/Metis_Project_Benson/master?filepath=Metis_Project_Benson%2F2.analysis%2FMTA_sub_way_data_analysis_with_pandas_for_random_week.ipynb
